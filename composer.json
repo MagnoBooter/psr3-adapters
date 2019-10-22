@@ -25,6 +25,5 @@
 			"Sil\\Psr3Adapters\\" : "src/",
 			"Sil\\Psr3Adapters\\tests\\" : "tests/"
 		}
-	},
-	"minimum-stability" : "dev"
+	}
 }
